@@ -26,3 +26,19 @@ if (c > d) {
 else {
     console.log('"d" é maior que "c", e o número é: ' + d);
 }
+
+// 3 - Utilize if/else para escrever um código que retorne o maior de três números. Defina, no começo do seu código, três variáveis com os valores que serão comparados.
+
+let e = 20;
+let f = 50;
+let g = 42;
+
+if (e > f && e > g) {
+    console.log('Eu sou a letra (e) com o maior valor: ' + e);
+}
+else if (f > e && f > g) {
+    console.log('Eu sou a letra (f) com o maior valor: ' + f);
+}
+else {
+    console.log('Eu sou a letra (g) com o maior valor: ' + g);
+}
