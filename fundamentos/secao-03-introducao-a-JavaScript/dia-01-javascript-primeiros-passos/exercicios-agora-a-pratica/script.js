@@ -14,3 +14,15 @@ console.log('Subtração: ' + (a - b));
 console.log('Multiplicação: ' + (a * b));
 console.log('Divisão: ' + (a / b));
 console.log('Módulo: ' + (a % b));
+
+// 2 - Utilize if/else para escrever um código que retorne o maior de dois números. Defina, no começo do seu código, duas variáveis com os valores que serão comparados.
+
+let c = 8;
+let d = 10;
+
+if (c > d) {
+    console.log('"c" é maior que "d", e o número é: ' + c);
+}
+else {
+    console.log('"d" é maior que "c", e o número é: ' + d);
+}
