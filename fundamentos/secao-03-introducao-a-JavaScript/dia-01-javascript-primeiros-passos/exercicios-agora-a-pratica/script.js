@@ -90,3 +90,38 @@ if (positive) {
 else {
     console.log('Inválido');
 }
+
+// 6 - Utilize switch/case para escrever um código que receba o nome de uma peça de xadrez e retorne os movimentos que ela pode fazer.
+
+// Como desafio, escreva um código para funcionar tanto se receber o nome de uma peça com letras maiúsculas quanto com letras minúsculas, sem aumentar a quantidade de condicionais.
+
+// Como dica, você pode pesquisar uma função que faça uma string ficar com todas as letras minúsculas (lower case).
+
+// Se a peça passada for inválida, o código deve retornar uma mensagem de erro.
+
+// Exemplo: bishop (bispo) -> diagonals (diagonais)
+
+let piece = 'rei';
+
+switch (piece.toLowerCase()) {
+    case 'rei':
+        console.log('Rei -> Uma casa para qualquer direção');
+        break;
+    case 'bispo':
+        console.log('Bispo -> Diagonal');
+        break;
+    case 'rainha':
+        console.log('Rainha -> Todas as direções');
+        break;
+    case 'cavalo':
+        console.log('Cavalo -> Move-se em L, também pode pular');
+        break;
+    case 'torre':
+        console.log('Torre -> Horizontal e vertical');
+        break;
+    case 'soldado':
+        console.log('Soldado -> Um movimento para frente, na saída opção de dois movimentos, ataque somente na diagonal')
+        break;
+    default:
+        console.log('Movimento inválido!')    
+}
