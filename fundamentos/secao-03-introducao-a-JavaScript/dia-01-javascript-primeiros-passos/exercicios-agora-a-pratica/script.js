@@ -160,3 +160,16 @@ else if (percentual >= 50) {
 else {
     console.log('F');
 }
+
+// 8 - Utilize if/else para escrever um código que defina três números em variáveis e retorne true se pelo menos uma das três for par. Caso contrário, o código deve retornar false.
+
+let i = 9;
+let j = 10;
+let k = 11;
+
+if (i % 2 === 0 || j % 2 === 0 || k % 2 === 0) {
+    console.log(true);
+}
+else {
+    console.log(false);
+}
