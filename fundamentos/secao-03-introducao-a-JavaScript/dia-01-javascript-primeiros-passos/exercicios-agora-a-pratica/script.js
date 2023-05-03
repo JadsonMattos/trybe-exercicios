@@ -105,23 +105,58 @@ let piece = 'rei';
 
 switch (piece.toLowerCase()) {
     case 'rei':
-        console.log('Rei -> Uma casa para qualquer direção');
-        break;
+    console.log('Rei -> Uma casa para qualquer direção');
+    break;
     case 'bispo':
-        console.log('Bispo -> Diagonal');
-        break;
+    console.log('Bispo -> Diagonal');
+    break;
     case 'rainha':
-        console.log('Rainha -> Todas as direções');
-        break;
+    console.log('Rainha -> Todas as direções');
+    break;
     case 'cavalo':
-        console.log('Cavalo -> Move-se em L, também pode pular');
-        break;
+    console.log('Cavalo -> Move-se em L, também pode pular');
+    break;
     case 'torre':
-        console.log('Torre -> Horizontal e vertical');
-        break;
+    console.log('Torre -> Horizontal e vertical');
+    break;
     case 'soldado':
-        console.log('Soldado -> Um movimento para frente, na saída opção de dois movimentos, ataque somente na diagonal')
-        break;
+    console.log('Soldado -> Um movimento para frente, na saída opção de dois movimentos, ataque somente na diagonal')
+    break;
     default:
-        console.log('Movimento inválido!')    
+    console.log('Movimento inválido!')    
+}
+
+// 7 - Utilize if/else para escrever um código que converta uma nota dada em porcentagem (de 0 a 100) em conceitos de A a F. Siga as seguintes regras:
+
+// Porcentagem >= 90 -> A
+// Porcentagem >= 80 -> B
+// Porcentagem >= 70 -> C
+// Porcentagem >= 60 -> D
+// Porcentagem >= 50 -> E
+// Porcentagem < 50 -> F
+
+// O código deve retornar uma mensagem de erro e encerrar se a nota passada for menor que 0 ou maior que 100.
+
+let percentual = 101;
+
+if (percentual < 0 || percentual > 100) {
+    console.log('Inválido!')
+}
+else if (percentual >= 90) {
+    console.log('A');
+}
+else if (percentual >= 80) {
+    console.log('B');
+}
+else if (percentual >= 70) {
+    console.log('C');
+}
+else if (percentual >= 60) {
+    console.log('D');
+}
+else if (percentual >= 50) {
+    console.log('E');
+}
+else {
+    console.log('F');
 }
