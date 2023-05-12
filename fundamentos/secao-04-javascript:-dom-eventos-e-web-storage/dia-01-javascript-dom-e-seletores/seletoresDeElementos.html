@@ -1,0 +1,40 @@
+<!-- - Recupere o elemento que contém o título da página e faça algo com ele, como alterá-lo para o nome de seu filme favorito.
+  - Depois, recupere o segundo parágrafo e use sua criatividade para alterá-lo.
+  - Por fim, recupere o subtítulo e altere-o também. -->
+  
+  <!-- - Adicione uma classe igual para os dois parágrafos.
+    - Recupere os parágrafos via código JavaScript usando a função getElementsByClassName.
+    - Altere algum estilo do primeiro deles.
+    - Recupere o subtítulo e altere a cor dele usando a função getElementsByTagName. -->
+    
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+    </head>
+    <body>
+      <header>
+        <h2 id="page-title">Título</h2>
+        <p id="paragraph" class="paragraphStyle">Dê uma cor para este parágrafo!</p>
+        <h4 id="subtitle">Subtítulo</h4>
+        <p id="second-paragraph" class="paragraphStyle">Segundo parágrafo!</p>
+      </header>
+      <script>
+        const paragraph = document.getElementById("paragraph");
+        paragraph.style.color = "red";
+        const title = document.getElementById('page-title');
+        title.innerText = 'Uma Mente Brilhante';
+        const secondParagraph = document.getElementById('second-paragraph');
+        secondParagraph.innerText = 'John Nash (Russell Crowe) é um gênio da matemática que, aos 21 anos, formulou um teorema que provou sua genialidade e o tornou aclamado no meio onde atuava. Mas aos poucos o belo e arrogante Nash se transforma em um sofrido e atormentado homem, que chega até mesmo a ser diagnosticado como esquizofrênico pelos médicos que o tratam. Porém, após anos de luta para se recuperar, ele consegue retornar à sociedade e acaba sendo premiado com o Nobel.';
+        const subtitle = document.getElementById('subtitle')
+        subtitle.innerText = 'A Beautiful Mind';
+        const paragraphStyle = document.getElementsByClassName('paragraphStyle');
+        paragraphStyle[0].style.color = "grey";
+        const subtitle1 = document.getElementsByTagName('h4')[0];
+        subtitle1.style.color = 'silver';
+      </script>
+    </body>
+    </html>
