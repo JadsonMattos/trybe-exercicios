@@ -30,12 +30,15 @@ const showPromo = (name, number) => {
     checkNumber(parseInt(number));
     checkValidRange(number);
     const productObject = checkPromo(number);
-
+    
     firstText.innerHTML = `Boas-vindas, ${name}!`;
     secondText.innerHTML = `A promoção do dia é: 
-      ${productObject.product} no valor de R$ ${productObject.price}`;
+    ${productObject.product} no valor de R$ ${productObject.price}`;
   } catch(err) {
     secondText.innerHTML = err.message;
+  } finally {
+    document.querySelector('#name-id').value = "";
+    document.querySelector('#number-id').value = "";
   }
 }
 
