@@ -28,3 +28,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |[:x:] Dia 02: JavaScript - Array e loop for|
 |[:x:] Dia 03: JavaScript - Funções|
 |[:x:] Dia 04: JavaScript - Objetos|
+|[:x:] Dia 05: JavaScript - JSON e dia de prática|
