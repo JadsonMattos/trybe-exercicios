@@ -29,3 +29,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |[:x:] Dia 03: JavaScript - Funções|
 |[:x:] Dia 04: JavaScript - Objetos|
 |[:x:] Dia 05: JavaScript - JSON e dia de prática|
+
+|Seção 4: JavaScript: DOM Eventos e Web Storage|
+|-------------------------------------|
+|[:x:] Dia 01: JavaScript - DOM e seletores|
+|[:x:] Dia 02: JavaScript - Trabalhando com elementos|
+|[:x:] Dia 03: JavaScript - Eventos|
+|[:x:] Dia 04: JavaScript - Web storage|
+|[:x:] Dia 05: Projeto - Arte com pixels|
+|[:x:] Dia 06: Projeto bônus|
