@@ -1,0 +1,21 @@
+{
+  "name": "validador-de-campos",
+  "version": "1.0.0",
+  "description": "campo para inserir o texto a ser validado, um dropdown para selecionar qual a validação deve ser feita, um botão para executar a validação e um texto que informe se o valor é válido ou não.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js"
+  },
+  "keywords": [
+    "validador"
+  ],
+  "author": "jadsonmattos",
+  "license": "ISC",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.3",
+    "validator": "^13.9.0",
+    "vite": "^4.3.9"
+  }
+}
