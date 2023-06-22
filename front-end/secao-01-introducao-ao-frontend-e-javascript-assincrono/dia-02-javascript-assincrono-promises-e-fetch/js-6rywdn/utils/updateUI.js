@@ -91,7 +91,7 @@ export function fillErrorMessage(errorMessage) {
   // Remove a classe que escondia o elemento
   errorMessageElement.classList.remove('invisible');
 
-  //Adiciona a mensagem de erro como texto do elemento
+  // Adiciona a mensagem de erro como texto do elemento
   errorMessageElement.innerText = errorMessage;
 }
 
