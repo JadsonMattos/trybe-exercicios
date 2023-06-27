@@ -6,7 +6,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back,end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web
 
 |Seção 1: Unix, Shell e Git|
 |----------------------------|
@@ -31,10 +31,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |[:x:] Dia 05: JavaScript - JSON e dia de prática|
 
 |Seção 4: JavaScript: DOM Eventos e Web Storage|
-|-------------------------------------|
+|-------------------------------------------------|
 |[:x:] Dia 01: JavaScript - DOM e seletores|
 |[:x:] Dia 02: JavaScript - Trabalhando com elementos|
 |[:x:] Dia 03: JavaScript - Eventos|
 |[:x:] Dia 04: JavaScript - Web storage|
 |[:x:] Dia 05: Projeto - Arte com pixels|
 |[:x:] Dia 06: Projeto bônus|
+
+|Seção 5: HTML e CSS - Forms. Flexbo e Responsivo|
+|-------------------------------------------------|
+|[:x:] Dia 01: HTML e CSS - Forms|
+|[:x:] Dia 02: Bibliotecas JavaScript e frameworks CSS|
+|[:x:] Dia 03: CSS - Flexbox parte I|
+|[:x:] Dia 04: CSS - Flexbox parte II|
+|[:x:] Dia 05: Responsividade|
+|[:x:] Dia 06: Projeto - Trybewarts|
