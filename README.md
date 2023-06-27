@@ -47,3 +47,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |[:x:] Dia 04: CSS - Flexbox parte II|
 |[:x:] Dia 05: Responsividade|
 |[:x:] Dia 06: Projeto - Trybewarts|
+
+|
