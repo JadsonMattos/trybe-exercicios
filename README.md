@@ -52,7 +52,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |[:x:] Dia 05: Responsividade|
 |[:x:] [Dia 06: Projeto - Trybewarts](https://github.com/JadsonMattos/Trybewarts)|
 
-||Seção 6: Introdução a JavaScript ES6 e Testes Unitários|
+|Seção 6: Introdução a JavaScript ES6 e Testes Unitários|
 |---------------------------------------------------------|
 |[:x:] Dia 01: Fluxo de exceções|
 |[:x:] Dia 02: Primeiros passos em Jest|
