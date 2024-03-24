@@ -1,17 +1,6 @@
-## Exercícios - propriedades de texto no CSS
+# Você será capaz de
 
-1. Modifique o font-family do h1 para sans-serif;
-
-2. Deixe o parágrafo com o font-weight 600;
-
-3. Modifique o font-size do body para 16px;
-
-4. Coloque o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body;
-
-5. Explore as propriedades font-style, line-height, text-align e text-decoration;
-
-6. Troque a cor de fundo de cada item da lista para a cor correspondente ao texto.
-
-## CSS inline e externo
-
-7. Coloque todo o CSS da tag style em um arquivo externo.
+- Criar regras de estilo para tags HTML utilizando o CSS;
+- Utilizar os seletores de tag, id e class para aplicar regras de CSS;
+- Alterar características da fonte e das cores de páginas web;
+- Utilizar CSS inline e externo.

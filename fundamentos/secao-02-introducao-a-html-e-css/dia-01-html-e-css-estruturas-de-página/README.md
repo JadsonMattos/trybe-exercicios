@@ -1,4 +1,4 @@
-## Exercícios - HTML
+# Exercícios - HTML
 
 1. Crie uma lista das pessoas com quem você já fez amizade na Trybe.
 
