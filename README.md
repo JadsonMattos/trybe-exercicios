@@ -33,8 +33,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |Seção 4: JavaScript: DOM Eventos e Web Storage|
 |-------------------------------------------------|
 |[:x:] Dia 01: JavaScript - DOM e seletores|
+|[1.1 Exercise Functions](https://github.com/JadsonMattos/Exercise-Functions)|
 |[:x:] Dia 02: JavaScript - Trabalhando com elementos|
 |[:x:] Dia 03: JavaScript - Eventos|
+|[3.1 Exercise Tryber Calendar](https://github.com/JadsonMattos/Tryber-Calendar)|
 |[:x:] Dia 04: JavaScript - Web storage|
 |[:x:] [Dia 05: Projeto - Arte com pixels](https://github.com/JadsonMattos/Pixel-Arts)|
 |[:x:] Dia 06: Projeto bônus|
