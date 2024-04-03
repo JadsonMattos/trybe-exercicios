@@ -1,0 +1,11 @@
+Exercício 1
+1. Adicione o framework escolhido ao formulário. Para isso, acesse a documentação do framework e siga as instruções para uso. Por exemplo, para adicionar estilos com o Bootstrap, você pode utilizar o link CDN, como no exemplo abaixo:
+Copiar
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+De olho na dica 👀: O Bootstrap tem um passo a passo na documentação, que mostra como fazer o link dos estilos no seu arquivo HTML.
+
+2. Estilize o formulário
+Para isso, acesse a documentação do framework e procure por estilos de formulários. Fique à vontade para usar a criatividade e estilizar como preferir!
+
+Outras sugestões: Bulma, Semantic UI e Materialize.
+
