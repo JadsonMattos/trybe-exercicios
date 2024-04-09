@@ -54,11 +54,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |[Teck Gallery](https://github.com/JadsonMattos/Tech-Gallery)|
 |[:x:] Dia 04: CSS - Flexbox parte II|
 |[Tryflix](https://github.com/JadsonMattos/Tryflix)|
+|[:x:] Dia 05: Responsividade|
 |[:x:] [Dia 06: Projeto - Trybewarts](https://github.com/JadsonMattos/Trybewarts)|
 
 |Seção 6: Introdução a JavaScript ES6 e Testes Unitários|
 |---------------------------------------------------------|
 |[:x:] Dia 01: Fluxo de exceções|
+|[Exception Handling](https://github.com/JadsonMattos/exception-handling)|
 |[:x:] Dia 02: Primeiros passos em Jest|
 |[:x:] Dia 03: Matchers e cobertura de código|
 |[:x:] [Dia 04: Projeto - JavaScript Testes Unitários](https://github.com/JadsonMattos/unit-tests)|
