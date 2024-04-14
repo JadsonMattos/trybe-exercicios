@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Lista de Filmes</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Lista de Filmes</h1>
+    <ul>
+        {% for filme in filmes %}
+            <li>{{ filme.titulo }} ({{ filme.ano }})</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
