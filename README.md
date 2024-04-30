@@ -20,20 +20,23 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |[:x:] Dia 02: HTML e CSS - Primeiros passos em CSS|
 |[:x:] Dia 03: HTML e CSS - Seletores e posicionamento|
 |[:x:] Dia 04: HTML semântico|
+|[Semantic HTML](https://github.com/JadsonMattos/semantic-html)|
 |[:x:] [Dia 05: Projeto Lessons Learned](https://github.com/JadsonMattos/LessonsLearned)|
 
 |Seção 3: Introdução ao JavaScript|
 |-------------------------------------|
 |[:x:] Dia 01: JavaScript - Primeiros passos|
 |[:x:] Dia 02: JavaScript - Array e loop for|
+|[Functions](https://github.com/JadsonMattos/Exercise-Functions)|
 |[:x:] Dia 03: JavaScript - Funções|
+|[Functions in Practice](https://github.com/JadsonMattos/functions-in-practice)|
 |[:x:] Dia 04: JavaScript - Objetos|
 |[:x:] [Dia 05: JavaScript - JSON e dia de prática](https://github.com/JadsonMattos/Playground-Functions)|
 
 |Seção 4: JavaScript: DOM Eventos e Web Storage|
 |-------------------------------------------------|
 |[:x:] Dia 01: JavaScript - DOM e seletores|
-|[Exercise Functions](https://github.com/JadsonMattos/Exercise-Functions)|
+|[Dom Manipulation](https://github.com/JadsonMattos/Dom-Manipulation)|
 |[:x:] Dia 02: JavaScript - Trabalhando com elementos|
 |[:x:] Dia 03: JavaScript - Eventos|
 |[Exercise Tryber Calendar](https://github.com/JadsonMattos/Tryber-Calendar)|
@@ -63,12 +66,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |[Exception Handling](https://github.com/JadsonMattos/exception-handling)|
 |[:x:] Dia 02: Primeiros passos em Jest|
 |[:x:] Dia 03: Matchers e cobertura de código|
+|[Tests in Practice](https://github.com/JadsonMattos/tests-in-practice)|
 |[:x:] [Dia 04: Projeto - JavaScript Testes Unitários](https://github.com/JadsonMattos/unit-tests)|
 
 |Seção 7: Higher Order Functions do JavaScript ES6|
 |-------------------------------------------------|
 |[:x:] Dia 01: Introdução a Higher Order Functions|
+|[Books List](https://github.com/JadsonMattos/books-list)|
 |[:x:] Dia 02: Higher Order Functions - sort b   e map|
+|[Library Organization](https://github.com/JadsonMattos/library-organization)|
 |[:x:] Dia 03: Higher Order Functions - filter e reduce|
 |[:x:] Dia 04: JavaScript ES6 - spread operator, rest parameters e object destructuring|
 |[:x:] Dia 05: JavaScript ES6 - array destructuring, default destructuring, object property shorthand e default parameters|
