@@ -95,6 +95,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |-------------------------------------|
 |[:x:] Dia 01: Introdução ao React e ao Typescript|
 |[:x:] Dia 02: Componentes React e Props|
+|[:x:] [Tô Viajando](https://github.com/JadsonMattos/to-viajando)|
 |[:x:] Dia 03: Avançando em componentes|
 |[:x:] Dia 04: Revisão - Solar System|
 |[:x:] Dia 05: Estados e eventos|
