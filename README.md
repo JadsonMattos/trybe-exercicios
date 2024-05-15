@@ -85,6 +85,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |Seção 1: Introdução ao Frontend e JavaScript assíncrono|
 |----------------------------|
 |[:x:] Dia 01: Ambiente de desenvolvimento|
+|[:x:] [Generate Password](https://github.com/JadsonMattos/generate-password)|
 |[:x:] Dia 02: JavaScript Assíncrono - Promises e fetch|
 |[:x:] Dia 03: Revisão - Casa de Câmbio|
 |[:x:] Dia 04: Async, await e tetes assíncronos|
@@ -97,15 +98,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 |[:x:] Dia 02: Componentes React e Props|
 |[:x:] [Tô Viajando](https://github.com/JadsonMattos/to-viajando)|
 |[:x:] Dia 03: Avançando em componentes|
+|[:x:] [Products Lists](https://github.com/JadsonMattos/product-list)|
 |[:x:] Dia 04: Revisão - Solar System|
+|[:x:] [Solar System](https://github.com/JadsonMattos/solar-system)|
 |[:x:] Dia 05: Estados e eventos|
+|[:x:] [Best Reads](https://github.com/JadsonMattos/best-reads)|
 |[:x:] Dia 06: Formulários|
+|[:x:] [Form React Type](https://github.com/JadsonMattos/form-react-type)|
 |[:x:] Dia 07: Revisão - Store Back Office|
-|[:x:] [Dia 05: Projeto Password Manager](https://github.com/JadsonMattos/password-manager)|
+|[:x:] [Store Back Office](https://github.com/JadsonMattos/store-back-office)|
+|[:x:] [Dia 08: Projeto Password Manager](https://github.com/JadsonMattos/password-manager)|
 
 |Seção 3: Aprofundando no React|
 |-------------------------------------|
 |[:x:] Dia 01: React Router|
+|[:x:] [Bloggers](https://github.com/JadsonMattos/bloggers)|
 |[:x:] Dia 02: useEffect|
+|[:x:] [Doguinhos](https://github.com/JadsonMattos/dog-images)|
 |[:x:] Dia 03: Revisão - Clonando o Twitter|
 |[:x:] [Dia 05: Projeto Trybetunes](https://github.com/JadsonMattos/trybetunes)|
