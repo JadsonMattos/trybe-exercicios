@@ -1,3 +1,5 @@
-# TrybeCar API
+# Você será capaz de
 
-<!-- ADICIONAR INFORMAÇÕES SOBRE A BRANCH `INITIAL-SETUP` -->
+- Definir o conceito de Arquitetura de Software;
+- Utilizar a arquitetura baseada em camadas em uma aplicação criada do zero.
+- Identificar os componentes de software pertencentes a camada Model.
